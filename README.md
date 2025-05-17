@@ -35,7 +35,7 @@ const LANGUAGE_VERSIONS = {
 - **Frontend:** React + Vite
 - **UI Components:** Chakra UI
 - **Code Editor:** Monaco Editor React wrapper
-- **Code Execution API:** Piston API (remote or self-hosted)
+- **Code Execution API:** Piston API (Open source)
 
 ## 📦 Setup Instructions
 
